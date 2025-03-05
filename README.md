@@ -11,4 +11,4 @@ Aprendendo Docker
 * whoami
 * echo
 * echo $0
-
+* apt list
